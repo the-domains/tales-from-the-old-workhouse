@@ -1,7 +1,7 @@
-name: Tales from the Old Workhouse
+name: The Old Workhouse
 favicon: null
-layout_spectrum: 0.18434569076634943
-typography_spectrum: 0.6111394306644797
+layout_spectrum: 0.93459
+typography_spectrum: 0.31143
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.22551649366505444
   lightness: 0.9081238938961178
   saturation: 0.9856278125662357
-  rhythmicContrast: 0.6011233837343752
+  rhythmicContrast: 0.5
 purpose: []
