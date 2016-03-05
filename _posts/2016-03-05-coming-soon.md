@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T11:46:31.097Z'
-dateModified: '2016-03-05T11:46:30.371Z'
+datePublished: '2016-03-05T11:47:35.377Z'
+dateModified: '2016-03-05T11:46:42.592Z'
 title: Coming soon
 author: []
 sourcePath: _posts/2016-03-05-coming-soon.md
