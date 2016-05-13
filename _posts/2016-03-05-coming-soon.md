@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Soon you will be able to follow the renovation of 'The Old Workhouse', an 18th century building at the verge of collapse."
-datePublished: '2016-04-29T09:54:26.457Z'
-dateModified: '2016-04-29T09:54:23.364Z'
+datePublished: '2016-05-13T09:45:16.929Z'
+dateModified: '2016-04-29T09:54:34.128Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-05-coming-soon.md
-published: true
 authors: []
 publisher:
   name: null
