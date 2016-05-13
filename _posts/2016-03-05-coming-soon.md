@@ -1,27 +1,27 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: "Soon you will be able to follow the renovation of 'The Old Workhouse', an 18th century building at the verge of collapse."
-datePublished: '2016-05-13T09:45:16.929Z'
-dateModified: '2016-04-29T09:54:34.128Z'
-title: ''
-author: []
+datePublished: '2016-05-13T09:46:16.550Z'
 sourcePath: _posts/2016-03-05-coming-soon.md
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-05-13T09:46:00.449Z'
+title: Coming Soon
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: "Soon you will be able to follow the renovation of 'The Old Workhouse', an 18th century building at the verge of collapse."
+inLanguage: null
+inNav: false
 starred: true
 url: coming-soon/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/441a0db5-9859-4fc9-9d1c-cea58c8f973b.jpg)
+![Soon you will be able to follow the renovation of 'The Old Workhouse', an 18th century building at the verge of collapse.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3f8b7072340cc4e208ca23dafcf1fc5d749ec2a.jpg)
 
 Soon you will be able to follow the renovation of 'The Old Workhouse', an 18th century building at the verge of collapse.
 
