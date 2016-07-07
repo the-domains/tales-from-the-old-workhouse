@@ -1,28 +1,40 @@
-name: The Old Workhouse
 favicon: null
-layout_spectrum: 0.5499351457692683
-typography_spectrum: 0.2601445307955146
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: The Old Workhouse
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9856278125662357
+  brandStrength: 0.2255164936650544
+  rhythmicContrast: 0.5
   brandColors:
     - '#bcbe7f'
     - '#a3754b'
     - '#5a2f2f'
     - '#757251'
     - '#290f1d'
-  brandStrength: 0.22551649366505444
   lightness: 0.9081238938961178
-  saturation: 0.9856278125662357
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.09856631
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5499351457692683
+analytics:
+  twitter: null
+  google: null
+  facebook: null
