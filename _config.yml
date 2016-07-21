@@ -24,7 +24,11 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - id: 'http://www.twitter.com/theoldworkhouse'
+    url: 'http://www.twitter.com/theoldworkhouse'
+    name: Twitter
+    type: external
 favicon: null
 collections:
   - index:
