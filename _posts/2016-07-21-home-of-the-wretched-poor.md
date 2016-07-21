@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-21T13:48:51.859Z'
+datePublished: '2016-07-21T13:49:31.290Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
 author: []
 via: {}
-dateModified: '2016-07-21T13:48:51.354Z'
+dateModified: '2016-07-21T13:49:30.921Z'
 title: “Home of the wretched poor“
 publisher: {}
 description: Welcome to ‘The Old Workhouse’
@@ -34,8 +34,6 @@ Simply put; [Patreon][0] is way for people to give a small amount of money each 
 However if you can't that's fine because our regular episodes will always be free.
 
 So be sure to subscribe, check out the other ways in which you can stay in touch and I will see you for episode one coming next week.
-
-------
 
 * [Twitter][1]
 * [Facebook][2]
