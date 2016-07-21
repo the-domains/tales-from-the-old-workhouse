@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Old Workhouse - Home of the wretched poor]]></title>
         <description><![CDATA[The Old Workhouse - Home of the wretched poor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theoldworkhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 14:02:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 14:04:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theoldworkhouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[“Home of the wretched poor“]]></title>
             <description><![CDATA[<article><h1>“Home of the wretched poor“</h1><p>Welcome to ‘The Old Workhouse’</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fff77b92-8f8c-45ee-bc85-dcfb8411f3df.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg</link>
             <guid isPermaLink="false">39c7f327-227c-4c52-bd88-1cd795bcc166</guid>
-            <pubDate>Thu, 21 Jul 2016 14:02:52 GMT</pubDate>
+            <pubDate>Thu, 21 Jul 2016 14:04:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
