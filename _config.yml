@@ -1,4 +1,6 @@
 typography_spectrum: 0.11097301542758942
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#bcbe7f'
@@ -19,7 +21,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9be183ee-466a-4424-9466-76478403ceb8.gif
 name: The Old Workhouse
 cta:
   domain: null
