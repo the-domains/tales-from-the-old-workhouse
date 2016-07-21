@@ -29,6 +29,10 @@ navigation:
     url: 'http://www.twitter.com/theoldworkhouse'
     name: Twitter
     type: external
+  - id: 'http://www.facebook.com/theoldworkhousetv'
+    url: 'http://www.facebook.com/theoldworkhousetv'
+    name: Facebook
+    type: external
 favicon: null
 collections:
   - index:
