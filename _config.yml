@@ -19,6 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: null
 name: The Old Workhouse
 cta:
   domain: null
@@ -46,4 +47,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: '"Home of the wretched poor"'
 purpose: []
