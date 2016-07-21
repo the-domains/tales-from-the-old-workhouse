@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA["Home of the wretched poor"]]></title>
-        <description><![CDATA["Home of the wretched poor"]]></description>
+        <title><![CDATA[The Old Workhouse - Home of the wretched poor]]></title>
+        <description><![CDATA[The Old Workhouse - Home of the wretched poor]]></description>
         <link>https://thegrid.ai/theoldworkhouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 09:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 10:13:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theoldworkhouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Coming Soon]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/theoldworkhouse/coming-soon/index.html</link>
             <guid isPermaLink="false">c6c4dba4-31ef-4f66-8adc-c048c56df8f4</guid>
             <pubDate>Thu, 21 Jul 2016 09:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Home of the wretched poor“]]></title>
+            <description><![CDATA[<article><h1>“Home of the wretched poor“</h1><p>Welcome to ‘The Old Workhouse’</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg</link>
+            <guid isPermaLink="false">39c7f327-227c-4c52-bd88-1cd795bcc166</guid>
+            <pubDate>Thu, 21 Jul 2016 10:13:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
