@@ -34,6 +34,10 @@ navigation:
     url: 'http://www.facebook.com/theoldworkhousetv'
     name: Facebook
     type: external
+  - id: 'http://www.tinyurl.com/theoldworkhouse'
+    url: 'http://www.tinyurl.com/theoldworkhouse'
+    name: YouTube
+    type: external
 favicon: null
 collections:
   - index:
