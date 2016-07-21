@@ -38,6 +38,10 @@ navigation:
     url: 'http://www.tinyurl.com/theoldworkhouse'
     name: YouTube
     type: external
+  - id: 'http://www.patreon.com/theoldworkhouse'
+    url: 'http://www.patreon.com/theoldworkhouse'
+    name: Patreon
+    type: external
 favicon: null
 collections:
   - index:
