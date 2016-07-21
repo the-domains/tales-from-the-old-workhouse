@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-21T13:46:57.322Z'
+datePublished: '2016-07-21T13:48:51.859Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
 author: []
 via: {}
-dateModified: '2016-07-21T13:46:54.985Z'
+dateModified: '2016-07-21T13:48:51.354Z'
 title: “Home of the wretched poor“
 publisher: {}
 description: Welcome to ‘The Old Workhouse’
