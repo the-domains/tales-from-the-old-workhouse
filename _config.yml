@@ -22,7 +22,7 @@ analytics:
   facebook: null
   twitter: null
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9be183ee-466a-4424-9466-76478403ceb8.gif
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/698ed79d-d6ad-4a9e-ace2-dceeb8dbe2e7.gif
 name: The Old Workhouse
 cta:
   domain: null
@@ -45,7 +45,8 @@ navigation:
     url: 'http://www.patreon.com/theoldworkhouse'
     name: Patreon
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0923cc1b-ac11-4e04-a144-efd09b7d8bd2.gif
 collections:
   - index:
       path: /
