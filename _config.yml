@@ -26,6 +26,10 @@ cta:
   bucket: null
   version: null
 navigation:
+  - id: 'http://www.tinyurl.com/theoldworkhouse'
+    url: 'http://www.tinyurl.com/theoldworkhouse'
+    name: YouTube
+    type: external
   - id: 'http://www.twitter.com/theoldworkhouse'
     url: 'http://www.twitter.com/theoldworkhouse'
     name: Twitter
@@ -33,10 +37,6 @@ navigation:
   - id: 'http://www.facebook.com/theoldworkhousetv'
     url: 'http://www.facebook.com/theoldworkhousetv'
     name: Facebook
-    type: external
-  - id: 'http://www.tinyurl.com/theoldworkhouse'
-    url: 'http://www.tinyurl.com/theoldworkhouse'
-    name: YouTube
     type: external
   - id: 'http://www.patreon.com/theoldworkhouse'
     url: 'http://www.patreon.com/theoldworkhouse'
