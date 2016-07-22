@@ -1,16 +1,13 @@
 ---
-datePublished: '2016-07-21T21:47:07.481Z'
+datePublished: '2016-07-22T13:06:08.576Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
-author:
-  - name: The Old Workhouse
-    url: 'https://www.youtube.com/channel/UCC5Loo958Lu9uIdRQsTbekQ'
-    avatar: {}
+author: []
 via:
   name: YouTube
   url: 'http://www.youtube.com'
-dateModified: '2016-07-21T21:47:05.198Z'
+dateModified: '2016-07-21T21:48:08.761Z'
 title: Welcome to ‘The Old Workhouse’
 publisher: {}
 description: >-
