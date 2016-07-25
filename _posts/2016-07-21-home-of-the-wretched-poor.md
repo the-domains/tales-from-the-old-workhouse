@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T13:25:09.892Z'
+datePublished: '2016-07-25T11:29:00.353Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
@@ -7,14 +7,14 @@ author: []
 via:
   name: YouTube
   url: 'http://www.youtube.com'
-dateModified: '2016-07-22T13:06:22.036Z'
+dateModified: '2016-07-25T11:28:59.837Z'
 title: Welcome to ‘The Old Workhouse’
 publisher: {}
 description: >-
   After months of work and planning; lugging bricks, removing tiles, clearing
   boxes, fighting with the vegetation I am now ready to start sharing this
   experience with you.
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
