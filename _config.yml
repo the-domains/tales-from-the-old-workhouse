@@ -29,21 +29,17 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 'http://www.tinyurl.com/theoldworkhouse'
+  - name: YouTube
     url: 'http://www.tinyurl.com/theoldworkhouse'
-    name: YouTube
     type: external
-  - id: 'http://www.twitter.com/theoldworkhouse'
+  - name: Twitter
     url: 'http://www.twitter.com/theoldworkhouse'
-    name: Twitter
     type: external
-  - id: 'http://www.facebook.com/theoldworkhousetv'
+  - name: Facebook
     url: 'http://www.facebook.com/theoldworkhousetv'
-    name: Facebook
     type: external
-  - id: 'http://www.patreon.com/theoldworkhouse'
+  - name: Patreon
     url: 'http://www.patreon.com/theoldworkhouse'
-    name: Patreon
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0923cc1b-ac11-4e04-a144-efd09b7d8bd2.gif
@@ -60,4 +56,5 @@ collections:
       format: rss
       number: 10
 title: The Old Workhouse - Home of the wretched poor
+description: Home of the wretched poor
 purpose: []
