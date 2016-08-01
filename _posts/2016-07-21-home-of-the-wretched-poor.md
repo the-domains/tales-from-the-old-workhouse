@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-01T15:25:22.243Z'
+datePublished: '2016-08-01T15:30:33.987Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/channel/UCC5Loo958Lu9uIdRQsTbekQ'
     avatar: {}
 via: {}
-dateModified: '2016-08-01T14:40:49.946Z'
+dateModified: '2016-08-01T15:30:33.453Z'
 title: What is a Workhouse?
 publisher: {}
 description: >-
@@ -30,8 +30,6 @@ In this episode of The Old Workhouse we are lucky enough to have parish workhous
 We hope that after this video you have a better idea of why workhouses were built but if you have any more questions then just in touch.
 
 If you want your question answered in a special Q&A episode then post it in our Patron only feed over at [Patreon][0]
-
---
 
 \_LINKS\_
 
