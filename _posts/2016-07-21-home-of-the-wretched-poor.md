@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-10T10:22:32.722Z'
+datePublished: '2016-08-14T19:15:15.588Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
 author: []
 via: {}
-dateModified: '2016-08-10T10:22:31.823Z'
+dateModified: '2016-08-14T19:15:14.401Z'
 title: What is a Workhouse?
 publisher: {}
 description: >-
   In this episode of The Old Workhouse we are lucky enough to have parish
   workhouse expert, Ray Whitehand giving us his time and considerable knowledge.
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
