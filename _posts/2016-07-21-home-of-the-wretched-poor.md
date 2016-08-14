@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-14T19:15:15.588Z'
+datePublished: '2016-08-14T19:15:29.845Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
 author: []
 via: {}
-dateModified: '2016-08-14T19:15:14.401Z'
+dateModified: '2016-08-14T19:15:29.707Z'
 title: What is a Workhouse?
 publisher: {}
 description: >-
