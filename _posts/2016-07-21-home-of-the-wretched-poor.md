@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-15T20:07:37.887Z'
+datePublished: '2016-08-16T18:51:32.099Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
@@ -8,13 +8,13 @@ author:
     url: 'https://www.youtube.com/channel/UCC5Loo958Lu9uIdRQsTbekQ'
     avatar: {}
 via: {}
-dateModified: '2016-08-15T20:07:36.374Z'
+dateModified: '2016-08-16T18:51:30.935Z'
 title: Explaining Patreon
 publisher: {}
 description: >-
   In this episode of The Old Workhouse I tell you all about what Patreon is, why
   we’re using it and what you can get for being one of our patrons.
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
