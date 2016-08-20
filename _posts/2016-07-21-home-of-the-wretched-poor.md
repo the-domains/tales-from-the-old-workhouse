@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T09:04:04.066Z'
+datePublished: '2016-08-20T09:04:07.118Z'
 sourcePath: _posts/2016-07-21-home-of-the-wretched-poor.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf15e5f2-e9e1-420c-b05a-8c059e09cc35.jpg
@@ -8,7 +8,7 @@ author:
     url: 'https://www.youtube.com/channel/UCC5Loo958Lu9uIdRQsTbekQ'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T09:04:03.018Z'
+dateModified: '2016-08-20T09:04:06.580Z'
 title: Explaining Patreon
 publisher: {}
 description: >-
