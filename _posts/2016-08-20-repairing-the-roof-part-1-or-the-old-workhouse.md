@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-20T09:07:53.649Z'
+datePublished: '2016-08-20T09:13:06.241Z'
 isBasedOnUrl: 'https://youtu.be/F4egQMywHfE'
 author:
   - name: The Old Workhouse
     url: 'https://www.youtube.com/channel/UCC5Loo958Lu9uIdRQsTbekQ'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T09:07:46.368Z'
+dateModified: '2016-08-20T09:13:05.813Z'
 title: Repairing the roof (Part 1) | The Old Workhouse
 publisher: {}
 description: >-
   In this episode of The Old Workhouse I tell you all about what Patreon is, why
   we’re using it and what you can get for being one of our patrons.
-starred: false
 sourcePath: _posts/2016-08-20-repairing-the-roof-part-1-or-the-old-workhouse.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
