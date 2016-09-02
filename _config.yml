@@ -1,5 +1,6 @@
-layout_spectrum: 0.5564714297652245
 typography_spectrum: 0.8763730975333601
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#bcbe7f'
@@ -11,16 +12,18 @@ color:
   lightness: 0.9081238938961178
   saturation: 0.9856278125662357
   rhythmicContrast: 0.5
-content_rating:
-  adult: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.5564714297652245
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  email: governor@TheOldWorkhouse.TV
+  name: Adam Roxby
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/698ed79d-d6ad-4a9e-ace2-dceeb8dbe2e7.gif
 name: The Old Workhouse
